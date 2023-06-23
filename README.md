@@ -1,5 +1,5 @@
 # Description
-In this project, I'm creating a simple blog application with CRUD (Create, Read, Update, Delete) functionality, leveraging Docker for containerization and Postman for API testing. The goal is to build a seamless and efficient blogging experience. By containerizing the application using Docker, I ensure consistent deployment and easy scalability. Postman will enable me to test the API endpoints for different CRUD operations. 
+In this project, I'm creating a simple blog application with CRUD (Create, Read, Update, Delete) functionality, leveraging Docker for containerization and Postman for API testing. The goal is to build a seamless and efficient blogging experience. By containerizing the application using Docker, I ensured consistent deployment and easy scalability. Postman will enable us to test the API endpoints for different CRUD operations. 
 
 > *Visit the **requirements.md** file for checking and meeting the requirements.*
 
