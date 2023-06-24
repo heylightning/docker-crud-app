@@ -9,6 +9,11 @@ In this project, I'm creating a simple blog application with CRUD (Create, Read,
 ```
 git clone git@github.com:heylightning/docker-crud-app.git
 ```
+* To run **index.js** file run the following command:
+```
+docker-compose up -d
+```
+
 
 ### LICENSE
 MIT License
