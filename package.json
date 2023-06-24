@@ -1,0 +1,28 @@
+{
+  "name": "docker-crud-app",
+  "version": "1.0.0",
+  "description": "In this project, I'm creating a simple blog application with CRUD (Create, Read, Update, Delete) functionality, leveraging Docker for containerization and Postman for API testing. The goal is to build a seamless and efficient blogging experience. By containerizing the application using Docker, I ensured consistent deployment and easy scalability. Postman will enable us to test the API endpoints for different CRUD operations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon -L index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heylightning/docker-crud-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heylightning/docker-crud-app/issues"
+  },
+  "homepage": "https://github.com/heylightning/docker-crud-app#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
