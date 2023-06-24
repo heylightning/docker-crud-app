@@ -13,6 +13,7 @@ git clone git@github.com:heylightning/docker-crud-app.git
 ```
 docker-compose up -d
 ```
+* System will be alive at: `  localhost:3000 `
 
 
 ### LICENSE
